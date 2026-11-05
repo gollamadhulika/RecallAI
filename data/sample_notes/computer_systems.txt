@@ -1,0 +1,15 @@
+Operating Systems and Memory Management Notes
+
+Virtual Memory is a storage allocation scheme in which secondary memory can be addressed as though it were part of main memory. The primary advantage of virtual memory is that an application program can be larger than physical memory.
+
+Paging is a memory management scheme by which a computer stores and retrieves data from secondary storage for use in main memory. In this scheme, the operating system retrieves data from secondary storage in same-size blocks called pages. Paging permits the physical address space of a process to be noncontiguous.
+
+A Page Fault occurs when a program attempts to access a block of memory that is not stored in the physical RAM. When a page fault happens, the hardware issues an interrupt to the operating system, which loads the missing page from secondary storage into physical memory.
+
+The Translation Lookaside Buffer (TLB) is a specialized hardware cache used by memory management hardware to improve virtual address translation speed. The TLB contains page table entries that have been recently used by active threads.
+
+CPU Scheduling is the process by which the operating system decides which process in the ready queue is allocated the central processing unit. The Round Robin algorithm is a preemptive scheduling algorithm where each process is assigned a fixed time slice or quantum.
+
+A Deadlock is a state in which two or more competing processes are unable to proceed because each is waiting for the other to release a shared resource. The four necessary Coffman conditions for deadlock are mutual exclusion, hold and wait, no preemption, and circular wait.
+
+Context Switch refers to the procedure an operating system performs to save the execution state of an active process and restore the state of another scheduled process.

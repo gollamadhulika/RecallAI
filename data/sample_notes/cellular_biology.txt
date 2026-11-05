@@ -1,0 +1,15 @@
+Cellular Biology and Photosynthesis Study Notes
+
+Photosynthesis is the biochemical process by which green plants, algae, and certain bacteria convert sunlight energy into chemical energy stored in glucose. The overall reaction uses carbon dioxide and water to produce glucose and oxygen gas.
+
+Chloroplasts are specialized intracellular organelles found in plant cells where photosynthetic reactions occur. Each chloroplast contains double membranes and internal disc-like structures called thylakoids arranged in stacks known as grana.
+
+Chlorophyll is the primary photosynthetic pigment that absorbs solar radiation within the blue and red wavelengths while reflecting green light. Chlorophyll molecules are located within the thylakoid membranes of chloroplasts.
+
+Light-Dependent Reactions occur in the thylakoids and require direct sunlight. During this phase, photons excite electrons in chlorophyll, causing water molecules to split through photolysis into oxygen, protons, and high-energy electrons.
+
+ATP Synthase is a membrane-bound protein enzyme that synthesizes adenosine triphosphate (ATP) from ADP and inorganic phosphate using the electrochemical proton gradient across the thylakoid membrane.
+
+The Calvin Cycle, also known as the light-independent reaction, takes place in the stroma of the chloroplast. During the Calvin cycle, carbon fixation incorporates carbon dioxide into organic molecules using the energy provided by ATP and NADPH.
+
+Rubisco is an essential enzyme that catalyzes the initial fixation of carbon dioxide during the Calvin cycle, making it one of the most abundant enzymes on Earth.

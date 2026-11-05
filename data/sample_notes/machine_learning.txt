@@ -1,0 +1,15 @@
+Machine Learning and Neural Networks Study Notes
+
+Supervised Learning is a machine learning paradigm where an algorithm learns a mapping function from labeled input data to corresponding ground truth targets. Common tasks in supervised learning include classification and continuous numerical regression.
+
+Gradient Descent is an iterative optimization algorithm used to minimize the objective loss function by calculating the gradient of the loss with respect to model parameters. The learning rate hyperparameter controls the step size taken in the direction of steepest descent.
+
+Overfitting occurs when a statistical model learns the noise and idiosyncratic details in the training dataset rather than the underlying general patterns. An overfitted model achieves high training accuracy but exhibits poor generalization performance on unseen test data.
+
+Regularization refers to a set of techniques, such as L1 Lasso and L2 Ridge penalties, designed to discourage model complexity and prevent overfitting by adding a penalty term to the loss function.
+
+Artificial Neural Networks are computational architectures inspired by biological nervous systems, consisting of interconnected layers of artificial neurons or nodes with trainable weights and activation functions.
+
+Backpropagation is an algorithm used in training feedforward artificial neural networks that calculates the gradient of the error function with respect to the network weights via the mathematical chain rule of calculus.
+
+Activation Functions introduce non-linear properties into the neural network, enabling deep architectures to approximate complex, non-linear mappings. Popular activation functions include ReLU, Sigmoid, and GELU.
